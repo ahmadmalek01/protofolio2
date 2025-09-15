@@ -1,0 +1,177 @@
+.co{
+width: 100%;
+#s{
+  
+margin: 0 auto;
+    background: linear-gradient(to right , #4f46e5 , pink );
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+font-size: 50px;
+font-weight: 900;
+border-bottom:10px solid pink ;
+width: max-content;
+margin-bottom: 50px;
+
+
+}
+
+.contact{
+    padding: 40px 100px;
+background-color: #111827;
+color: white;
+display: flex;
+margin-top: 40px;
+align-items: center;
+padding: 0px 100px ;
+justify-content: space-between;
+
+
+
+.column1{
+    display: flex;
+    flex-direction: column;
+.mail{
+    width: 450px;
+    border-radius: 10px;
+  background-color: #1f2937;  
+  padding: 24px;
+  margin: 10px 0px;
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  h1{
+    font-size: 30px;
+    font-weight: bolder;
+  }
+}
+
+.phone{
+    width: 450px;
+    border-radius: 10px;
+  background-color: #1f2937;  
+  padding: 24px;
+  margin: 10px 0px;
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  h1{
+    font-size: 30px;
+    font-weight: bolder;
+  }
+}
+
+.location{
+    width: 450px;
+    border-radius: 10px;
+  background-color: #1f2937;  
+  padding: 24px;
+  margin: 10px 0px;
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  h1{
+    font-size: 30px;
+    font-weight: bolder;
+  }
+}
+}
+
+
+.column2{
+    width: max-content;
+    height: max-content;
+    border-radius:20px ;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 40px;
+
+    background-color:#1f2937 ;
+    
+.nn{
+margin: 30px 20px;
+font-size: 24px;
+input{
+    height: 50px;
+    margin-top: 5px;
+    background-color: #374151;
+    padding: 12px;
+    border: 1px white solid ;
+    border-radius: 5px;
+    
+}
+}
+.ee{
+margin: 30px 20px;
+font-size: 24px;
+input{
+    width: 100%;
+    height: 50px;
+    margin-top: 5px;
+    background-color: #374151;
+    padding: 12px;
+    border: 1px white solid ;
+    border-radius: 5px;
+    
+}
+}
+.mm{
+margin: 30px 20px;
+font-size: 24px;
+textarea{
+    width: 100%;
+    margin-top: 5px;
+    background-color: #374151;
+    padding: 12px;
+    border: 1px white solid ;
+    border-radius: 5px;
+    
+}
+}
+button{
+    background-color: #4f46e5;
+    margin: 10px 20px;
+    cursor: pointer;
+padding: 10px 0px;
+    border-radius: 20px;
+    font-size: 18px;
+    font-weight: 600;
+}
+}
+}
+
+
+}
+
+
+
+
+
+
+
+
+@media (max-width : 992px) {
+.co{
+  .contact{
+    flex-direction: column;
+.column1{
+justify-content: center;
+align-items: center;
+.mail{
+margin: 10px 0px;
+width: 300px;
+}
+.phone{
+margin: 10px 0px;
+width: 300px;
+}
+.location{
+margin: 10px 0px;
+width:300px;
+}
+margin-bottom: 30px;
+}
+
+    
+}
+}
+}
