@@ -23,7 +23,7 @@ const NavBar = () => {
       className="nav"
     >
       <div className="logo">
-        <img src="./assets/images/ahmad malek logo copy.svg" alt="logo" />
+        <img src="/protofolio2/assets/images/ahmad malek logo copy.svg" alt="logo" />
         <h1>EN.Ahmad Malek</h1>
       </div>
 

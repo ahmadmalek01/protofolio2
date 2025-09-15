@@ -24,7 +24,7 @@ const Hero = () => {
             delay: 1.2,
           }}
         >
-          <img src="./assets/images/me-2323.png"></img>
+          <img src="/protofolio2/assets/images/me-2323.png"></img>
         </motion.div>
 
 

@@ -73,7 +73,7 @@ function App() {
       name: "Avatar",
       description:"Frontend clone using  HTML5, and CSS3.",
       demoGitHub: "https://github.com/ahmadmalek00/Avatar-project7",
-      photo: "/assets/images/p1.png",
+      photo: "/protofolio2/assets/images/p1.png",
 
     },
     {
@@ -81,7 +81,7 @@ function App() {
       name: "Adidass",
       description:"Frontend clone using  HTML5, and CSS3.",
       demoGitHub: "https://github.com/ahmadmalek00/adidas-project",
-      photo: "/assets/images/p2.png",
+      photo: "/protofolio2/assets/images/p2.png",
 
     },
     {
@@ -89,14 +89,14 @@ function App() {
       name: "Selling products",
       description:"Frontend clone using  HTML5, and CSS3.",
       demoGitHub: "https://github.com/ahmadmalek00",
-      photo: "/assets/images/p3.png",
+      photo: "/protofolio2/assets/images/p3.png",
     },
     {
       id: 4,
       name: "CRUDS",
       description:"Frontend clone using JavaScript, HTML5, and CSS3.",
       demoGitHub: "https://github.com/ahmadmalek00/CRUDS-project",
-      photo: "/assets/images/p4.png",
+      photo: "/protofolio2/assets/images/p4.png",
 
     },
     {
@@ -104,7 +104,7 @@ function App() {
       name: "AZM-Company",
       description:"Frontend clone using  HTML5, and CSS3.",
       demoGitHub: "https://github.com/ahmadmalek00/shose-project",
-      photo: "/assets/images/p5.png",
+      photo: "/protofolio2/assets/images/p5.png",
 
     },
     {
@@ -112,7 +112,7 @@ function App() {
       name: "selling shose",
       description:"Frontend clone using JavaScipt, HTML5, and CSS3.",
       demoGitHub: "https://github.com/ahmadmalek00/AZM-project",
-      photo: "/assets/images/p6.png",
+      photo: "/protofolio2/assets/images/p6.png",
 
     },
     {
@@ -120,7 +120,7 @@ function App() {
       name: "protofolio",
       description:"Frontend with React js and some library like react icon ....",
       demoGitHub: "https://github.com/ahmadmalek00/protofolio",
-      photo: "/assets/images/p10.png",
+      photo: "/protofolio2/assets/images/p10.png",
 
     },
   ];
